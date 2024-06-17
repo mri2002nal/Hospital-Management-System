@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64b37e3b6de3d826334c0349"
+  },
+  "DocID": "D001",
+  "Name": "Maria Adams",
+  "Gender": "F",
+  "DOB": "1991-05-09",
+  "Qualification": "MBBS",
+  "Department": "Cardiology",
+  "Address": "431,West Bank",
+  "Salary": "$470",
+  "Phone": "011-299673"
+},
+{
+  "_id": {
+    "$oid": "64b545d43ff2775fa0c1ac68"
+  },
+  "DocID": "D002",
+  "Name": "David Andrewmann",
+  "Gender": "M",
+  "DOB": "1976-04-28",
+  "Qualification": "MBBS",
+  "Department": "Neurology",
+  "Address": "21,Hudson Lane,TX 78681",
+  "Salary": "$800",
+  "Phone": "233-2411765"
+}]

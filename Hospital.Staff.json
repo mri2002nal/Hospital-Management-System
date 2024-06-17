@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "64b37936a242a358a5983c54"
+  },
+  "ID": "R001",
+  "Name": "Peter Wilson",
+  "Gender": "M",
+  "DOB": "1995-08-26",
+  "Designation": "Receptionist",
+  "Salary": "$90",
+  "Address": "1510,Church Town",
+  "Phone": "032-886357"
+}]

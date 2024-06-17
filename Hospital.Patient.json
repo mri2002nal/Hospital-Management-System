@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "64b93b8e50603ae571244094"
+  },
+  "PatientID": "P001",
+  "Name": "Joshua Anthony",
+  "Gender": "M",
+  "DOB": "1999-02-18",
+  "Insurance": "LV01178436",
+  "Address": "1510,6th Lane,Luton's Town",
+  "Phone": "012-1335698",
+  "Blood Group": "B+ve",
+  "Allergies": "NA"
+}]
